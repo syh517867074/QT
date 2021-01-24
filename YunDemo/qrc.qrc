@@ -1,5 +1,5 @@
 <RCC>
-    <qresource prefix="/upload">
+    <qresource prefix="/">
         <file>images/balckButton.png</file>
         <file>images/display_bk.bmp</file>
         <file>images/login_bk.jpg</file>
